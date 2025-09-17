@@ -6,11 +6,11 @@
   },
   "miniapp": {
     "version": "1",
-    "name": "Vibes Vite Template",
+    "name": "StablePointLabs",
     "iconUrl": "https://vibes-engineering-vite-template.vercel.app/logo.png",
     "homeUrl": "https://vibes-engineering-vite-template.vercel.app",
     "imageUrl": "https://vibes-engineering-vite-template.vercel.app/splash.png",
-    "buttonTitle": "Open Vibes Template",
+    "buttonTitle": "Open StablePointLabs",
     "splashImageUrl": "https://vibes-engineering-vite-template.vercel.app/splash.png",
     "splashBackgroundColor": "#eeccff"
   }
